@@ -63,22 +63,23 @@ Windows 버전은 준비 중이에요.
 
 ### 2. 설치하기
 
-내려받은 **RootVibe.dmg**를 두 번 눌러 열고, 아래 순서대로 해 주세요.
-루트바이브는 아직 Apple 공증을 받지 않아서 **처음 한 번만** 2~4번이 필요해요.
+아래 순서대로 해 주세요. 루트바이브는 아직 Apple 공증을 받지 않아서 **처음 한 번만** 3~5번이 필요해요.
 
-**1. RootVibe → Applications 로 드래그**
+**1. 다운로드한 RootVibe.dmg 를 더블클릭하세요.**
+
+**2. RootVibe → Applications 로 드래그**
 
 <img src="docs/install/1-drag.png" alt="RootVibe 아이콘을 Applications 폴더로 끌어 놓는 화면" width="380">
 
-**2. 응용 프로그램 > RootVibe 클릭 > [완료] 클릭**
+**3. 응용 프로그램 > RootVibe 클릭 > [완료] 클릭**
 
 <img src="docs/install/2-first-open.png" alt="응용 프로그램에서 RootVibe 를 누르면 뜨는 「RootVibe을(를) 열지 않음」 창 — 완료 버튼" width="420">
 
-**3. 시스템 설정 > 개인정보 보호 및 보안 > '보안'으로 스크롤 > RootVibe 우측 [그래도 열기] 클릭**
+**4. 시스템 설정 > 개인정보 보호 및 보안 > '보안'으로 스크롤 > RootVibe 우측 [그래도 열기] 클릭**
 
 <img src="docs/install/3-settings.png" alt="시스템 설정 개인정보 보호 및 보안 — 보안 항목의 그래도 열기 버튼" width="380">
 
-**4. Mac 암호 입력 > [그래도 열기] 클릭**
+**5. Mac 암호 입력 > [그래도 열기] 클릭**
 
 그 뒤로는 평소처럼 Launchpad나 응용 프로그램에서 열면 됩니다.
 
