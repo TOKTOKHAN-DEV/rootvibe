@@ -63,35 +63,28 @@ Windows 버전은 준비 중이에요.
 
 ### 2. 설치하기
 
-1. 내려받은 **RootVibe.dmg**를 두 번 눌러 열어요.
-2. 열린 창에서 **RootVibe** 아이콘을 **Applications** 폴더로 끌어다 놓아요.
+내려받은 **RootVibe.dmg**를 두 번 눌러 열고, 아래 순서대로 해 주세요.
+루트바이브는 아직 Apple 공증을 받지 않아서 **처음 한 번만** 2~4번이 필요해요.
 
-   <img src="docs/install/1-drag.png" alt="RootVibe 아이콘을 Applications 폴더로 끌어 놓는 화면" width="480">
+**1. RootVibe → Applications 로 드래그**
 
-3. 창을 닫고, Finder 왼쪽의 디스크 모양 옆 ⏏ 버튼을 눌러 꺼내요.
+<img src="docs/install/1-drag.png" alt="RootVibe 아이콘을 Applications 폴더로 끌어 놓는 화면" width="380">
 
-### 3. 처음 열기 — 「열지 않음」이 뜰 때
+**2. 응용 프로그램 > RootVibe 클릭 > [완료] 클릭**
 
-루트바이브는 아직 Apple 공증을 받지 않아서, **처음 한 번** 아래 과정을 거쳐야 해요.
+<img src="docs/install/2-first-open.png" alt="응용 프로그램에서 RootVibe 를 누르면 뜨는 「RootVibe을(를) 열지 않음」 창 — 완료 버튼" width="420">
 
-**① Applications에서 RootVibe를 열면 「'RootVibe'을(를) 열지 않음」 창이 떠요.**
-**「휴지통으로 이동」이 아니라 「완료」를 눌러요.**
+**3. 시스템 설정 > 개인정보 보호 및 보안 > '보안'으로 스크롤 > RootVibe 우측 [그래도 열기] 클릭**
 
-<img src="docs/install/2-first-open.png" alt="「RootVibe을(를) 열지 않음」 경고 창 — 완료 버튼" width="240">
+<img src="docs/install/3-settings.png" alt="시스템 설정 개인정보 보호 및 보안 — 보안 항목의 그래도 열기 버튼" width="380">
 
-**②  메뉴 → 시스템 설정 → 개인정보 보호 및 보안을 열고, 아래로 스크롤해요.**
-**「보안」에서 `Mac을 보호하기 위해 'RootVibe'을(를) 차단했습니다` 옆의 「그래도 열기」를 눌러요.**
+**4. Mac 암호 입력 > [그래도 열기] 클릭**
 
-<img src="docs/install/3-settings.png" alt="시스템 설정 개인정보 보호 및 보안 — 보안 항목의 그래도 열기 버튼" width="560">
+<img src="docs/install/4-open-anyway.png" alt="「RootVibe을(를) 열겠습니까?」 창 — 그래도 열기 버튼" width="200">
 
-**③ 다시 뜨는 「'RootVibe'을(를) 열겠습니까?」 창에서 「그래도 열기」를 눌러요.**
-Mac 암호(또는 Touch ID)를 물으면 입력해요.
+그 뒤로는 평소처럼 Launchpad나 응용 프로그램에서 열면 됩니다.
 
-<img src="docs/install/4-open-anyway.png" alt="「RootVibe을(를) 열겠습니까?」 창 — 그래도 열기 버튼" width="240">
-
-이 과정은 처음 한 번만 하면 돼요. 그 뒤로는 평소처럼 Launchpad나 Applications에서 열면 됩니다.
-
-### 4. 시작하기
+### 3. 시작하기
 
 1. 앱을 열면 **AI 계정 연결** 화면이 나와요. 쓰던 Claude 계정으로 로그인하세요.
 2. 연결되면 입력창에 만들고 싶은 것을 평소 말로 적어 보내면 끝이에요.
