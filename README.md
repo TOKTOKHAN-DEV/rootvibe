@@ -80,8 +80,6 @@ Windows 버전은 준비 중이에요.
 
 **4. Mac 암호 입력 > [그래도 열기] 클릭**
 
-<img src="docs/install/4-open-anyway.png" alt="「RootVibe을(를) 열겠습니까?」 창 — 그래도 열기 버튼" width="200">
-
 그 뒤로는 평소처럼 Launchpad나 응용 프로그램에서 열면 됩니다.
 
 ### 3. 시작하기
